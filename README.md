@@ -79,7 +79,7 @@ The playbook implements the following tasks:
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-(Images/sudodockerps.png)
+(/c/Users/The Assimilator/elk_stack/Images/sudodockerps.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
@@ -100,7 +100,7 @@ SSH into the control node and follow the steps below:
 - Update the configuration file to include webservers and ELKvm private IPs
 - Run the playbook, and navigate to Elkvm to check that the installation worked as expected.
 
-(Images/kibanadashboardlastpic.png)
+(/c/Users/The Assimilator/elk_stack/Images/kibanadashboardlastpic.png)
 
 Answer the following questions to fill in the blanks:_
 - Which file is the playbook? Where do you copy it? /etc/ansible/file/filebeat-configuration.yml
